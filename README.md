@@ -1,7 +1,7 @@
 ## Hi, I'm Kurt!
 
-👯 I’m Currently an Intern at Alliance Software, Inc. <br/>
-⚡ I Specialize in Full Stack Web Development <br/>
+👯 I’m currently an Intern at Alliance Software, Inc. <br/>
+⚡ I specialize in Full Stack Web Development <br/>
 💬 Now my interests are slowly getting dragged by Automation, Deep Learning, and all those geeky stuff <br/>
 
 ## 🌐 Socials:
