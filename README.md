@@ -1,8 +1,8 @@
-##Hi, I'm Kurt!
+## Hi, I'm Kurt!
 
-👯 I’m Currently an Intern at Alliance Software, Inc. 
-⚡ I Specialize in Full Stack Web Development
-💬 Now my interests are slowly getting dragged by Automation, Deep Learning, and all those geeky stuff
+👯 I’m Currently an Intern at Alliance Software, Inc. <br/>
+⚡ I Specialize in Full Stack Web Development <br/>
+💬 Now my interests are slowly getting dragged by Automation, Deep Learning, and all those geeky stuff <br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kurt.impe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kurt-hydein-p-imperial-a89a96267) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kurthydeinimperial@gmail.com) 
